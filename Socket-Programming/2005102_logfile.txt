@@ -1,0 +1,42 @@
+REQUEST
+GET / HTTP/1.1
+Date: Fri Sep 13 14:20:01 BDT 2024Content-Type: text/html
+Content-Length: 850
+
+
+RESPONSE
+HTTP/1.0 200 OK
+Server: Java HTTP Server: 1.0
+Date: Fri Sep 13 14:20:01 BDT 2024
+Content-Type: text/html
+Content-Length: 850
+
+
+REQUEST
+GET /favicon.ico HTTP/1.1
+Date: Fri Sep 13 14:20:01 BDT 2024Content-Type: text/html
+Content-Length: 53
+
+
+RESPONSE
+HTTP/1.0 404: Page Not Found
+Server: Java HTTP Server: 1.0
+Date: Fri Sep 13 14:20:01 BDT 2024
+Content-Type: text/html
+Content-Length: 53
+
+
+REQUEST
+GET /BD.jpeg HTTP/1.1
+Date: Fri Sep 13 14:20:03 BDT 2024Content-Type: text/html
+Content-Length: 22665
+
+
+RESPONSE
+HTTP/1.0 200 OK
+Server: Java HTTP Server: 1.0
+Date: Fri Sep 13 14:20:03 BDT 2024
+Content-Type: text/html
+Content-Length: 22665
+
+

@@ -1,0 +1,1 @@
+First copy the whole AODV in src and give it a new name RAODV.Inside that place the rdv.sh file and run it.All AODV instances will be converted to RAODV
